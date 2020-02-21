@@ -1,0 +1,17 @@
+# InvitroDB Loader
+
+Utility that is bundled with public-facing InvitroDB data that will load invitrodb into the end-user's MySQL database.
+
+Link: https://www.epa.gov/chemical-research/exploring-toxcast-data-downloadable-data
+
+## Usage
+
+How to upload InvitroDB to your MySQL server
+
+1) Extract mysql.tar.gz
+
+2a) Windows -- Double-click Load-InvitroDB.bat, then enter your server hostname, username, port number, and password, as prompted
+
+2b) Mac or Linux -- Run ./Load-InvitroDB.sh in a terminal from the directory where you downloaded and unzipped the file
+
+
